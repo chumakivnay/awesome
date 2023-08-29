@@ -1,0 +1,25 @@
+body, div {
+    margin: 0;
+    padding: 0;
+}
+
+.bg {
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.text{
+    color: #1e0505;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
